@@ -10,9 +10,8 @@ Having every SNAFU rifle cost 25,000 is absurd, lol. You can easily go into your
 remove the weapon from the market entirely and change the types.xml Nominal value to 1 so only 1 pops on map. Or change the value to 0 so none ever spawn and you can offer one as a reward for a big event or equip a tough AI with one to loot. 
 Or sell the weapon, but not the ammo, so players have to go to risky places to scrounge for ammo for their Barrett 50cal head exploder...
 
-But, if your server economy is fucked & players are minting cash by mining gems or growing weed, feel free to change all the prices to 100,000 per rifle ;)
-
-PS. Don't contact me to debate prices. Just change them if you don't like them, lol...
+But, if your server economy is fucked & players are minting cash by mining gems or growing weed, feel free to change all the prices to 100,000 per rifle ;) Don't contact me to debate prices. 
+Just change them if you don't like them, lol...
 
 
 
