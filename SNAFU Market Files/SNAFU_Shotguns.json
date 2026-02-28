@@ -6,18 +6,7 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
-        {
-            "ClassName": "AA12_Gun",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
+       {
             "ClassName": "SNAFU_Trenchgun",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1000,
