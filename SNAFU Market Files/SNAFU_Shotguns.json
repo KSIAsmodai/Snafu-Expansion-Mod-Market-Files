@@ -18,6 +18,17 @@
             "Variants": []
         },
         {
+            "ClassName": "AA12_Gun",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "SN_M870",
             "MaxPriceThreshold": 516,
             "MinPriceThreshold": 430,
