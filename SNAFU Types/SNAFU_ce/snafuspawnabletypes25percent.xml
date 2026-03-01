@@ -4534,4 +4534,34 @@
 			<item name="SNAFUVSSK_5rdMag" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="AA12_Gun">
+		<attachments chance="0.25">
+			<item name="SNAFU_Aimpoint_ACO" chance="0.34" />
+			<item name="SNAFU_Walther" chance="0.33" />
+			<item name="SNAFU_Kobra" chance="0.33" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_Shotgunchoke_Black" chance="0.20" />
+			<item name="SNAFU_Shotgunchoke_Blue" chance="0.20" />
+			<item name="SNAFU_Shotgunchoke_Brown" chance="0.10" />
+			<item name="SNAFU_Shotgunchoke_Green" chance="0.10" />
+			<item name="SNAFU_Shotgunchoke_Purple" chance="0.10" />
+			<item name="SNAFU_Shotgunchoke_Red" chance="0.10" />
+			<item name="SNAFU_Shotgunchoke_Tur" chance="0.10" />
+			<item name="SNAFU_Shotgunchoke_Yellow" chance="0.10" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_AFG_02_Black" chance="0.05" />
+			<item name="SNAFU_AFG_02_Tan" chance="0.05" />
+			<item name="SNAFU_AFG_02_OD" chance="0.05" />
+			<item name="SNAFUAR15_AFG" chance="0.05" />
+			<item name="SNAFUScar_AFG_BK" chance="0.05" />
+			<item name="SNAFUScar_AFG_Tan" chance="0.05" />
+			<item name="SNAFU_FGKAC_Grip" chance="0.70" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="AA12_Mag" chance="1.00" />
+		</attachments>
+	</type>
 </spawnabletypes>
+
